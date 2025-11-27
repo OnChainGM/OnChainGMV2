@@ -820,12 +820,15 @@ Start your daily Web3 ritual today. Every GM transaction is:
 
 ---
 
+distributed addresses
+BNB Chain: 0xB4d915FeB8b0757792435C8229D4d6AA6ab7e88d
+
 <div align="center">
 
 **Built with ❤️ by the OnChainGM Team**
 
 [![Twitter](https://img.shields.io/twitter/follow/OnChainGM?style=social)](https://twitter.com/OnChainGM)
-[![GitHub](https://img.shields.io/github/stars/yourusername/OnChainGM?style=social)](https://github.com/yourusername/OnChainGM)
+[![GitHub](https://img.shields.io/github/stars/yourusername/OnChainGM?style=social)](https://github.com/OnChainGM/OnChainGMV2)
 
 *"Your Daily Web3 Ritual"*
 
